@@ -5,6 +5,7 @@
 #include <string.h>
 #include <errno.h>
 #include <stdlib.h>
+#include <arpa/inet.h>
 void errProc();
 
 int main(int argc, char** argv)
